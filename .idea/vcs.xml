@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/non-scratch code/pocketsphinx-python" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/non-scratch code/pocketsphinx-python/deps/pocketsphinx" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/non-scratch code/pocketsphinx-python/deps/sphinxbase" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/pocketsphinx-python" vcs="" />
+  </component>
+</project>

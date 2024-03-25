@@ -1,0 +1,1 @@
+a project utilizing natural language processing and deep learning to comprehend and generate meaningful responses based on read material and given prompt.

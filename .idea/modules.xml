@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../Stanford_Summer_Session/cs106/Assignment7/.idea/Assignment7.iml" filepath="$PROJECT_DIR$/../Stanford_Summer_Session/cs106/Assignment7/.idea/Assignment7.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../OMEGALUL/.idea/OMEGALUL.iml" filepath="$PROJECT_DIR$/../../OMEGALUL/.idea/OMEGALUL.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/SRP_Ver2.iml" filepath="$PROJECT_DIR$/.idea/SRP_Ver2.iml" />
+    </modules>
+  </component>
+</project>
